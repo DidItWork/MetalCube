@@ -1,4 +1,4 @@
-![alt text](https://github.com/DidItWork/MetalCube/master/MCV1.png?raw=true)
+![alt text](https://github.com/DidItWork/MetalCube/blob/master/MCV1.png?raw=true)
 
 Hello!
 
