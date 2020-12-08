@@ -1,0 +1,4 @@
+22/11/2020
+1. Preliminary mechanical design is complete
+2. First prototype to be constructed
+3. Electronics integration into the CAD model
